@@ -734,7 +734,7 @@
         {
             "type": "Feature",
             "properties": {
-                "REGIAO": "Centro"
+                "REGIAO": "Centro Oeste"
             },
             "geometry": {
                 "type": "MultiPolygon",
